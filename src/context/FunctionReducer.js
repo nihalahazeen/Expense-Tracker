@@ -1,4 +1,4 @@
-export default (state, action) => {
+export default function FunctionReducer (state, action) {
     switch(action.type){
         case "Delete_Transaction":
             return{
