@@ -22,7 +22,7 @@ h2{
 }
 
 .expense-tracking{
-  background-color: #f9fbfc;
+  background-color: #f7f7f7;
   color: #000000;
   padding: 5px;
   box-shadow: 0 0 10px gray;
@@ -97,7 +97,7 @@ h3{
   opacity: 0;
   pointer-events: none;
   border: none;
-  background-color: #ffffff;
+  background-color: #f7f7f7;
   border-radius: 0.5rem;
   padding: 2px 5px 2px 5px;
   position: absolute;
